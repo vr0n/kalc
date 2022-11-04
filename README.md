@@ -8,3 +8,6 @@ This probably works elsewhere too.
 Requires xterm and zsh
 
 Enter a string of math to get the answer. enter a single number to get its conversions
+
+![the juice](./basic.png "maffs usage")
+![the juice_2](./single.png "single number usage")
