@@ -9,5 +9,5 @@ Requires xterm and zsh
 
 Enter a string of math to get the answer. enter a single number to get its conversions
 
-![the juice](https://github.com/vr0n/kalc/images/basic.png "maffs usage")
-![the juice_2](https://github.com/vr0n/kalc/images/single.png "single number usage")
+![the juice](https://github.com/vr0n/kalc/tree/master/images/basic.png "maffs usage")
+![the juice_2](https://github.com/vr0n/kalc/tree/master/images/single.png "single number usage")
