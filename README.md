@@ -6,3 +6,5 @@ the script file is what you should point to if you want to make the command a gl
 This probably works elsewhere too.
 
 Requires xterm and zsh
+
+Enter a string of math to get the answer. enter a single number to get its conversions
